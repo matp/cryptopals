@@ -1,0 +1,7 @@
+require 'cryptopals/cryptanalysis/ecb'
+require 'cryptopals/cryptanalysis/cbc'
+require 'cryptopals/cryptanalysis/ctr'
+require 'cryptopals/cryptanalysis/md4'
+require 'cryptopals/cryptanalysis/mt19937'
+require 'cryptopals/cryptanalysis/sha1'
+require 'cryptopals/cryptanalysis/xor'

@@ -1,0 +1,1 @@
+require 'cryptopals/scoring/english'

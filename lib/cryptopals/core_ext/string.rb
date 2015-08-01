@@ -1,0 +1,7 @@
+require 'cryptopals/core_ext/string/base64'
+require 'cryptopals/core_ext/string/byte'
+require 'cryptopals/core_ext/string/hamming'
+require 'cryptopals/core_ext/string/hex'
+require 'cryptopals/core_ext/string/pkcs7'
+require 'cryptopals/core_ext/string/random'
+require 'cryptopals/core_ext/string/xor'
